@@ -1,0 +1,22 @@
+#portada {
+          font-size: 42px;
+}
+
+.subtitulo {
+          color: blue;
+          font-size: 30px;
+}
+ ul, ol {
+          color: brown;
+          font-size: 21px;
+ }
+ p, a {
+          color: red;
+          font-size: 21px;
+ }
+
+ h6 {
+          color: aquamarine;
+          font-size: 10px;
+          text-align: left;
+ }
