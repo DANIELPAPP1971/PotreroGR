@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lora&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Yellowtail&display=swap');
+
+/*fuentes 
+font-family: "Lobster", sans-serif;
+font-family: "Titillium Web", sans-serif;*/
+body {
+    background-color: aquamarine;
+}
+
+#padre {
+    background-color: #f2f22c;
+    border: 5px red solid ;
+    border-radius: 10px;
+    text-align: center;
+          color: blue;
+          font-family: "Lobster", sans-serif;
+          font-size: 42px;
+          padding-top: 15px;
+          padding-bottom: 15px;
+}
+.subtitulo {
+    background-color: bisque;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 15px;
+    margin-right: 800px;
+    padding-left: 15px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ ul, ol {
+          background-color: #f2f22c;
+          border-style: solid;
+          border-color: hsl(137, 100%, 50%);
+          border-width: 8px;
+          border-radius: 1rem;
+          justify-content: center;
+          color: brown;
+          font-size: 21px;
+          font-family: monospace;
+          margin-right: 500px;
+          padding: 10px 10px 10px 10px;
+ }
+ li {
+    margin-left: 25px;
+ }
+ p {
+          background-color: antiquewhite;
+          border: solid;
+          border-color: rgb(88, 210, 40);
+          border-width: 5px;
+          border-radius: 10px;
+           color: red;
+          font-family: "Titillium Web", sans-serif;
+          font-size: 21px;
+          margin-right: 500px;
+ }
+
+ h6 {
+          color: aquamarine;
+          font-size: 10px;
+          text-align: left;
+ }
+ a {
+         background-color: chartreuse;
+          border-style: solid;
+          color: blueviolet;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 21px;
+          border-color: brown;
+          border-width: 2px;
+          border-radius: 10px;
+          padding: 10px 10px ;
+          margin: 30px;
+        
+}
+img {
+    border-style: dotted;
+    border-color: blueviolet;
+    border-width: 7px;
+    border-radius: 5px;
+    margin: 50px;
+}
+
+iframe {
+    border-style: solid ;
+    border-color: blueviolet;
+    border-width: 7px;
+    margin: 30px;
+}
+.ordenada {
+    border-color: bisque;
+    width: 300px;
+    height: auto;
+}
